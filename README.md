@@ -4,19 +4,19 @@
 
 - **Software Developer** 💻
 - **Full Stack Developer** 🍥
-- **Generative Artificial Intelligence Professional** 🤖
-- **Community Influencer** 👁️‍🗨️
+- **Community Influencer** 🗨️
 - **Open Source Contributor** 📝
+- **Generative AI Professional** 🤖
 
 ## The Questions You May Have 😕
 
 ### Who am I? 👨
 I am a passionate developer with expertise in software development, full-stack technologies, and artificial intelligence. I enjoy working on innovative projects and contributing to open-source communities.
 
-### How can I believe that you are good at what you do? 🤷‍♂️
+### How can I believe that you are good at what you do? 🤷‍
 Feel free to explore my [Portfolio](https://dkcody.github.io/portfolio/) where you can find various projects and contributions that showcase my skills and experience. You can also check out my [GitHub profile](https://github.com/dkcody) to see my activity and endorsements from the community.
 
-### What do you do other than building AI systems? 💁‍♂️
+### What do you do other than building AI systems? 💁‍
 In addition to working on full-stack development, I engage in AI systems, contribute to open-source projects, and participate in tech communities. I also enjoy sharing knowledge through blogging and speaking at tech events.
 
 ### What if you like my work? 🤩
